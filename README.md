@@ -29,5 +29,5 @@ It can be extended with authentication, charts, CRUD operations, and API integra
 
 ---
 
-## 📂 Project Structure
+
 
