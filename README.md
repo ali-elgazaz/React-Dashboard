@@ -1,16 +1,33 @@
-# React + Vite
+# React Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **React Dashboard** is a modern admin dashboard project built using **React** and **Vite**, designed for fast development and clean project structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## React Compiler
+This project serves as a starting point for building an **Admin Dashboard** using React.  
+It can be extended with authentication, charts, CRUD operations, and API integrations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Fast development with **Vite**
+- 🧩 Modular and clean project structure
+- 🔍 ESLint configuration for better code quality
+- 📦 Ready to scale for real-world dashboard features
+
+---
+
+## 🛠️ Technologies Used
+
+- **React** – UI library
+- **Vite** – Frontend tooling
+- **JavaScript (ES6+)**
+- **ESLint** – Code linting
+
+---
+
+## 📂 Project Structure
+
